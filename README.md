@@ -23,7 +23,7 @@ A Laravel Package to generate OAuth1/OAuth2 Providers that are compatible with t
 ### 1. Composer
 
 ```bash
-composer require the-provost/socialite-generators
+composer require socialiteproviders/generators
 ```
 
 ### 2. Service Provider
