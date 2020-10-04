@@ -1,5 +1,5 @@
 {
-    "name": "the-provost/socialite-generators",
+    "name": "socialiteproviders/generators",
     "description": "Laravel Artisan Generators for OAuth1/OAuth2 Providers",
     "license": "MIT",
     "authors": [{
